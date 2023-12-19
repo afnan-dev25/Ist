@@ -1,1 +1,2 @@
-# Ist
+# Ist 
+print("hello world")
